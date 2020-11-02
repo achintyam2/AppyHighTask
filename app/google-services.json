@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056308810951",
+    "firebase_url": "https://appyhigh-5402b.firebaseio.com",
+    "project_id": "appyhigh-5402b",
+    "storage_bucket": "appyhigh-5402b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056308810951:android:3df7263015abdd86911ae2",
+        "android_client_info": {
+          "package_name": "jp.hazuki.yuzubrowser.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056308810951-eape72d1ll34sm1sui304nes5pb22ss1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.hazuki.yuzubrowser.debug",
+            "certificate_hash": "9f1ef1fbdaa677707c4b5f46db0db726f0474f6e"
+          }
+        },
+        {
+          "client_id": "1056308810951-miklbql199nvqfv88sboidhfq93aq2aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxaStIEJUUpd3VlGhm4pRhYVJhx6h6c54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056308810951-miklbql199nvqfv88sboidhfq93aq2aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
